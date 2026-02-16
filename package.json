@@ -1,0 +1,10 @@
+{
+  "name": "blog-preview-worker",
+  "version": "1.0.0",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.0"
+  }
+}
